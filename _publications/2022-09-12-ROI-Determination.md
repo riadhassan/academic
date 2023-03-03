@@ -1,0 +1,15 @@
+---
+title: "Eye Tracking, Saliency Modeling and Human Feedback Descriptor Driven Robust Region-of-Interest Determination Technique"
+collection: publications
+permalink: /publication/Eye_Tracking_data_Driven_ROI
+excerpt: 'Region of Interest (ROI) determination process using subjective methods (e.g. using human vision) differ from the objective ones (e.g. using mathematical modelling). A novel method is proposed to determine ROI by combining subjective and objective information. Compared to existing deep learning based (MxSalNet) and depth pixel (DP) based ROI, the selection of ROI using the proposed method is more realistic'
+date: 2022-09-12
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/document/9887942'
+citation: 'M. Paul, P. K. Podder and M. R. Hassan, "Eye Tracking, Saliency Modeling and Human Feedback Descriptor Driven Robust Region-of-Interest Determination Technique," in IEEE Access, vol. 10, pp. 98612-98624, 2022, doi: 10.1109/ACCESS.2022.3206045.'
+---
+The Region of interest (ROI) analysis is widely used in image analytics, video coding, computer graphics, computer vision, medical imaging, nuclear medicine, computer tomography and many other areas in medical applications. This ROI determination process using subjective method (e.g. using human vision) often differ from the objective ones (e.g. using mathematical modelling). However, there is no existing method in the literature that could provide a single decision when both methods’ ROI data is available. To address this limitation, a robust algorithm is developed by combining the human eye tracking (subjective) and the graph-based visual saliency modelling (objective) information to determine a more realistic ROI for a scene. To carry out this process, in one hand, several different independent human visual saliency factors such as pupil size, pupil dilation, central tendency, fixation pattern, and gaze plot for a group of twenty-two participants are collected by applying on a set of publicly available eighteen video sequences. On the other hand, the features of Graph based visual saliency (GBVS) highlights conspicuity in the scene. Gleaned from these two pieces of information, the proposed algorithm determines the final ROI based on some heuristics. Experimental results show that for a wide range of video sequences and compared to the existing deep learning based (MxSalNet) and depth pixel (DP) based ROI, the proposed ROI is more consistent to the benchmark ROI, which was previously decided by a group of video coding experts. As the subjective and objective options frequently create an ambiguity to reach a single decision on ROI, the proposed algorithm could determine an ultimate decision, which is eventually validated by experts’ opinion.
+
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9887942)
+
+Recommended citation: M. Paul, P. K. Podder and M. R. Hassan, "Eye Tracking, Saliency Modeling and Human Feedback Descriptor Driven Robust Region-of-Interest Determination Technique," in <i>IEEE Access</i>, vol. 10, pp. 98612-98624, 2022, doi: 10.1109/ACCESS.2022.3206045.
