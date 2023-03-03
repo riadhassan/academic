@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "An IoT Based Water Quality Testing Device: An Approach to Modelling a Geographical Map Based on Water Quality Data and Decision Support System"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Water_quality_determination_and Map_modelling
+excerpt: 'Normally water quality is evaluated in a scientific laboratory which is expensive, time-consuming and impractical for real-time implementation. Thus, researchers have introduced different electronic devices to test water quality in real-time. However, these methods focused only on testing device development rather than disseminating resultant information for real-life applications. Moreover, these devices did not have any correlation with mobile decision support system and notification. To address these limitations, an integrated decision support system has been developed for instantaneous water quality detection by hardware configuration, smartphone application and web-based mapping.'
+date: 2021-05-10
+venue: 'International Journal of Advanced Trends in Computer Science and Engineering'
+paperurl: 'https://doi.org/10.30534/ijatcse/2021/851022021'
+citation: 'M. R. Hassan, P. K. Podder, T. Debnath, and M. O. Faruk “An IoT Based Water Quality Testing Device: An Approach to Modelling a Geographical Map Based on Water Quality Data and Decision Support System”, <i>International Journal of Advanced Trends in Computer Science and Engineering</i>, Volume 10, No.2, Pages: 1091-1099, April 2021 (ISSN 2278-309)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+According to the World Health Organization, 30% people lack access to safe water. Normally water quality is evaluated in a scientific laboratory which is expensive, time-consuming and impractical for real-time implementation. Thus, researchers have introduced different electronic devices to test water quality in real-time. However, these methods focused only on testing device development rather than disseminating resultant information for real-life applications. Moreover, these devices did not have any correlation with mobile
+decision support system and notification. To address these limitations, an integrated decision support system has been
+developed for instantaneous water quality detection by hardware configuration, smartphone application and web-based mapping. The evolved device automatically calculates six types of water parameter values, while the smartphone application categorizes water quality and notifies
+its consumption suitability by decision support system. The smartphone application also stores the GPS location of the water source and water quality data and also sends to the server for generating geographical map concerning its quality. Smartphone application’s stored data and central stored data are synchronized based on location. The smartphone also generates notification even without any access to the internet when a user enters into a lowerwater quality region. This package of solutions can be implemented all over the world for ensuring safe water.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.30534/ijatcse/2021/851022021)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: M. R. Hassan, P. K. Podder, T. Debnath, and M. O. Faruk “An IoT Based Water Quality Testing Device: An Approach to Modelling a Geographical Map Based on Water Quality Data and Decision Support System”, <i>International Journal of Advanced Trends in Computer Science and Engineering</i>, Volume 10, No.2, Pages: 1091-1099, April 2021 (ISSN 2278-309)
