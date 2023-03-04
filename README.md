@@ -9,4 +9,4 @@ Here you can find my
 * CV
 * and many more
 
-To bulid your one, just checkout [academic personal websites](https://github.com/academicpages/academicpages.github.io)
+To bulid your one, just checkout [academic page](https://github.com/academicpages/academicpages.github.io). It is super easy. Thanks goes to [Stuart Geiger](https://github.com/staeiou).
