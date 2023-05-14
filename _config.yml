@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Riad Hassan"
   avatar           : "Riad_profile.png"
-  bio              : "Leecturer, Green University of Bangladesh."
+  bio              : "Learning, Love to Learn"
   location         : "Dhaka, Bangladesh"
-  employer         :
+  employer         : "Green University of Bangladesh"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en"
   email            :  riad_hassan@outlook.com
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0471-5129"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
