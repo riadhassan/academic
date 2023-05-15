@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Summary"
+permalink: /summary/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -12,14 +10,14 @@ redirect_from:
 Education
 ======
 * M.Sc. in Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology (BUET), 2024 (expected)
-* B.S. in Information and Communication Engineering, Pabna University of Science and Technology, 2012
+* B.S. in Information and Communication Engineering, Pabna University of Science and Technology, 2022
 
 
 Work experience
 ======
 * Lecturer, Computer Science and Engineering
   * Green University of Bangladesh
-  * Form; February, 2022 - Till now
+  * Spring, 2022 - Till now
 
   
 Skills
@@ -43,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -53,5 +51,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
