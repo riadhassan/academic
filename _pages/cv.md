@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Summary"
 permalink: /summary/
 author_profile: true
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
+
 Education
 ======
 * M.Sc. in Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology (BUET), 2024 (expected)
@@ -14,9 +14,12 @@ Education
 
 Work experience
 ======
-* Lecturer, Computer Science and Engineering
+* [Lecturer](https://green.edu.bd/faculty-profile/dept-of-cse/md-riad-hassan/), Computer Science and Engineering
   * Green University of Bangladesh
   * Spring, 2022 - Till now
+* Research Assistant
+  * Computer Vision Lab, Dept. of ICE, [PUST](https://pust.ac.bd/).
+  * November 2021 - January 2022
 
   
 Skills
