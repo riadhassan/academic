@@ -28,9 +28,16 @@ Skills
   * Python
   * C++
   * C
+  * PHP
+  * Java
 * Deep Learning
   * PyTorch
   * Keras
+* Web Framework
+  * Wordpress
+  * Django
+  * Flask
+  * Bottle
 * VCS
   * git
 * OS
