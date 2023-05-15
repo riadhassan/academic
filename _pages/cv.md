@@ -5,8 +5,7 @@ permalink: /summary/
 author_profile: true
 ---
 
-{% include base_path %}
-
+<!-- {% include base_path %} -->
 Education
 ======
 * M.Sc. in Institute of Information and Communication Technology, Bangladesh University of Engineering and Technology (BUET), 2024 (expected)
