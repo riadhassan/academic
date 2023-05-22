@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Riad Hassan, completed my B.Sc. (Engineering) in Information and Communication Engineering (ICE) from Pabna University of science and technology ([PUST](https://pust.ac.bd/)). Currently, I am working as Lecturer at the department of Computer Science and Engineering (CSE) in Green University of Bangladesh ([GUB](https://green.edu.bd/faculty-profile/dept-of-cse/md-riad-hassan/)) and pursuing masters degree from Bangladesh University of Engineering and Technology ([BUET](https://www.buet.ac.bd/)).
-
-I have conducted a research on Region of Interest (ROI) with Charles Sturt University, Australia. Recently **I am working on Medical Imaging**, to be more specific Multi-Organ at Risk (OAR) Segmentation from CT scan. My research area are:
-
+Riad Hassan, Lecturer, department of Computer Science and Engineering (CSE) in Green University of Bangladesh ([GUB](https://green.edu.bd/faculty-profile/dept-of-cse/md-riad-hassan/)) and pursuing *Research Based MSc* from Bangladesh University of Engineering and Technology ([BUET](https://www.buet.ac.bd/)). **I am working Medical Imaging**, to be more specific Multi-Organ at Risk (OAR) Segmentation from CT scan. My research area are:
 * Medical Imaging
 * Region of Interest
 * Image Processing
 
-I want to maintain *T-shaped* research skills where the depth domain is Medical Imaging. So, I am interested to explore more areas of deep learning (i.e. NLP, autonomous vehicle), Bioinformatics, IoT..... Transforming research outputs into daily usable applications is fun.
+Transforming research outputs into daily usable applications is fun. I want to maintain *T-shaped* research skills where the depth domain is Medical Imaging. So, I am interested to explore more areas of deep learning (i.e. NLP, autonomous vehicle), Bioinformatics, IoT..... **Interested in innovative research project**. Kindly [let me know](mailto:riad_hassan@outlook.com). I will definitely get back to you.
 
-**Interested in innovative research project**. Kindly [let me know](mailto:riad_hassan@outlook.com) even if it is not within my scope. I will definitely get back to you.
+##### Updates:
+- February 2023: Complete course on Teaching for Active Learining(TAL)
+- September 2022: Research article publish on Region of Interest (ROI) in *IEEE Access* [Q1, IF: 3.476]. This research is conducted in colloboration with Charles Sturt University, Australia.
+- June 2022: Received Excellence Award from Pabna University of Science and Technology.
