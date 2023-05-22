@@ -12,12 +12,17 @@ In one word violin plot is more descriptive visualization rather than box plot. 
 let's see an example:
 
 Data: Math exam obtained marks of four different sections.
+
 Section A: [78, 83, 85, 88, 90, 92, 94, 95, 97, 98]
+
 Section B: [60, 65, 70, 72, 75, 78, 82, 85, 90, 95]
+
 Section C: [50, 55, 58, 62, 66, 70, 75, 80, 85, 90]
+
 Section D: [40, 45, 48, 50, 52, 55, 58, 60, 65, 70]
 
-![box-vs-violin](/images/box-vs-violin.png)
+![box-vs-violin](https://riadhassan.github.io/academic/images/box-vs-violin.png)
+
 *Source code to generate this figure is at last of this post
 
 The box plot will show the distribution of marks for each section using boxes and whiskers, while the violin plot will display the density estimation of the obtained marks using width of each level.
@@ -35,7 +40,7 @@ Violin Plot:
 
 > Violin plot represents all property of boxplot (median, 1st quartile, 3rd quartile) and data distribution or probability density.
 
-#### Use case:
+### Use case:
 
 Box Plot:
 - Summarizes the distribution of data using key statistical measures such as the median, quartiles, and potential outliers.
@@ -53,7 +58,7 @@ In summary, the choice between box plots and violin plots depends on the specifi
 
 Source code to generate the above figure:
 
-```
+```python
 # Use seaborn and matplot library
 
 import seaborn as sns 
