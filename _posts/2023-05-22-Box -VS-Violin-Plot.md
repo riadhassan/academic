@@ -54,10 +54,9 @@ In summary, the choice between box plots and violin plots depends on the specifi
 
 Source code to generate the above figure:
 
-<font size=12>
-```python
-# Use seaborn and matplot library
 
+```python 
+# Use seaborn and matplot library
 import seaborn as sns 
 import matplotlib.pyplot as plt
 
@@ -87,4 +86,3 @@ plt.xlabel('Section')
 plt.ylabel('Otained Marks')
 plt.show()
 ```
-</font>
