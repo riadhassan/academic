@@ -1,7 +1,7 @@
 ---
 title: 'Box Plot VS Violin Plot: Which one is powerfull for research articles'
 date: 2023-05-22
-permalink: /posts/2023/05/box-vs-violin/
+permalink: /posts/2023/05/box-vs-violin-plot/
 tags:
   - Research
   - Visualization
@@ -11,15 +11,12 @@ In one word violin plot is more descriptive visualization rather than box plot. 
 
 let's see an example:
 
-Data: Math exam obtained marks of four different sections.
+Data: Obtained marks in a course of four different sections. (Random Data)
 
-Section A: [78, 83, 85, 88, 90, 92, 94, 95, 97, 98]
-
-Section B: [60, 65, 70, 72, 75, 78, 82, 85, 90, 95]
-
-Section C: [50, 55, 58, 62, 66, 70, 75, 80, 85, 90]
-
-Section D: [40, 45, 48, 50, 52, 55, 58, 60, 65, 70]
+Section A: [78, 83, 85, 88, 90, 92, 94, 95, 97, 98] \
+Section B: [60, 65, 70, 72, 75, 78, 82, 85, 90, 95] \
+Section C: [50, 55, 58, 62, 66, 70, 75, 80, 85, 90] \
+Section D: [40, 45, 48, 50, 52, 55, 58, 60, 65, 70] \
 
 ![box-vs-violin](https://riadhassan.github.io/academic/images/box-vs-violin.png)
 
@@ -64,7 +61,7 @@ Source code to generate the above figure:
 import seaborn as sns 
 import matplotlib.pyplot as plt
 
-# Previos figure data
+# Previous figure data
 section_a = [78, 83, 85, 88, 90, 92, 94, 95, 97, 98]
 section_b = [60, 65, 70, 72, 75, 78, 82, 85, 90, 95]
 section_c = [50, 55, 58, 62, 66, 70, 75, 80, 85, 90]
