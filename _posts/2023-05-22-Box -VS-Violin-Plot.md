@@ -9,14 +9,13 @@ tags:
 
 In one word violin plot is more descriptive visualization rather than box plot. Can we use violin plot in all cases? The answer is depending on the condition, we use box plot or violin plot.
 
-let's see an example:
-
+**let's see an example:** \
 Data: Obtained marks in a course of four different sections. (Random Data)
 
 Section A: [78, 83, 85, 88, 90, 92, 94, 95, 97, 98] \
 Section B: [60, 65, 70, 72, 75, 78, 82, 85, 90, 95] \
 Section C: [50, 55, 58, 62, 66, 70, 75, 80, 85, 90] \
-Section D: [40, 45, 48, 50, 52, 55, 58, 60, 65, 70] \
+Section D: [40, 45, 48, 50, 52, 55, 58, 60, 65, 70] 
 
 ![box-vs-violin](https://riadhassan.github.io/academic/images/box-vs-violin.png)
 
@@ -55,6 +54,7 @@ In summary, the choice between box plots and violin plots depends on the specifi
 
 Source code to generate the above figure:
 
+<font size=12>
 ```python
 # Use seaborn and matplot library
 
@@ -87,3 +87,4 @@ plt.xlabel('Section')
 plt.ylabel('Otained Marks')
 plt.show()
 ```
+</font>
