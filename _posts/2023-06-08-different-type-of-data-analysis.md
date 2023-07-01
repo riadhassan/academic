@@ -16,7 +16,7 @@ Based on different context, we can categorized data.
 
 **Structured Data:** The data which follow a structured manner considered as structured data. like, tabular data (csv, xml, Json etc)
 
-**Structured Data:** The data which do not follow any structured manner considered as unstructured data. like, texts in a book.
+**Unstructured Data:** The data which do not follow any structured manner considered as unstructured data. like, texts in a book.
 
 Data Organization:
 
