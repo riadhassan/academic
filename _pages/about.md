@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Riad Hassan, Lecturer, department of Computer Science and Engineering (CSE) in Green University of Bangladesh ([GUB](https://green.edu.bd/faculty-profile/dept-of-cse/md-riad-hassan/)) and pursuing *Research Based MSc* from Bangladesh University of Engineering and Technology ([BUET](https://www.buet.ac.bd/)). **Currently, I am working on Medical Imaging**, to be more specific Multi-Organ at Risk (OAR) Segmentation from CT scan. My research area are:
+Riad Hassan, Lecturer, department of Computer Science and Engineering (CSE) in Green University of Bangladesh ([GUB](https://green.edu.bd/faculty-profile/dept-of-cse/md-riad-hassan/)) and pursuing *Research Based MSc* from Bangladesh University of Engineering and Technology ([BUET](https://www.buet.ac.bd/)). Beside those, I also conduct research with [BioRAIN Lab](https://biorainlab.net/author/riad-hassan/). My research interests are:
 * Deep Learning
 * Medical Imaging
 * Region of Interest
@@ -16,7 +16,7 @@ Transforming research outputs into daily usable applications is fun. **Intereste
 
 ### Updates:
 - _June 2024_ : A paper "[UDBRNet: A novel uncertainty driven boundary refined network for organ at risk segmentation](https://doi.org/10.1371/journal.pone.0304771)" Published in PLOS ONE. [Source Code](https://github.com/riadhassan/UDBRNet)
-- _May 2024_ : Our paper "[Uncertainty Driven Bottleneck Attention U-net for Organ at Risk Segmentation](https://arxiv.org/abs/2303.10796)" is presented in *IEEE International Symposium on Biomedical Imaging 2024 (ISBI-2024)* by Professor Clinton Fookes.
+- _May 2024_ : Our paper "[Uncertainty Driven Bottleneck Attention U-net for Organ at Risk Segmentation](https://arxiv.org/abs/2303.10796)" is presented in *IEEE International Symposium on Biomedical Imaging 2024 (ISBI-2024)* by [Professor Clinton Fookes](https://www.qut.edu.au/about/our-people/academic-profiles/c.fookes).
 - _February 2024_ : Accepted (full length) paper on Medical Imaging in the prestigious *IEEE International Symposium on Biomedical Imaging 2024 (ISBI-2024)* for presentation.
 - _February 2024_ : Appointed as program cordinator of Computer Science and Engineering Department.
 - _June 2023_ : Attended Summer School on Spectral Graph Theory organized by BUET.
