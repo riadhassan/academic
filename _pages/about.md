@@ -15,6 +15,7 @@ Riad Hassan, Lecturer, department of Computer Science and Engineering (CSE) in G
 Transforming research outputs into daily usable applications is fun. **Interested in innovative research project**. Kindly [let me know](mailto:riad_hassan@outlook.com). I will definitely get back to you.
 
 ### Updates:
+- _November 2024_ : Completed MSc from Bangladesh University of Engineering and Technology. Thesis title: *A novel uncertainty driven boundary refined convolution neural network for uneven medical image segmentation.
 - _August 2024_ : A paper **"Automated Radiomics-Based Clinically Significant Prostate Cancer (csPCa) Grade Classification From Biparametric MRI"** is accepted for presenting in _Digital Image Computing: Techniques & Applications **(DICTA)**_ 2024 Conference.
 - _June 2024_ : A paper "[UDBRNet: A novel uncertainty driven boundary refined network for organ at risk segmentation](https://doi.org/10.1371/journal.pone.0304771)" Published in PLOS ONE. [[Source Code]](https://github.com/riadhassan/UDBRNet)
 - _May 2024_ : Our paper "[Uncertainty Driven Bottleneck Attention U-net for Organ at Risk Segmentation](https://ieeexplore.ieee.org/document/10635587)" is presented in *IEEE International Symposium on Biomedical Imaging 2024 (ISBI-2024)* by [Professor Clinton Fookes](https://www.qut.edu.au/about/our-people/academic-profiles/c.fookes). [[Source Code]](https://github.com/riadhassan/UDBA-UNet)
