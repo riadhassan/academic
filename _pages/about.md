@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# I am not manage this website. Please visit my current [website](https://riadhassan.github.io/). [https://riadhassan.github.io/](https://riadhassan.github.io/)
+# I do not manage this website. Please visit my current [website](https://riadhassan.github.io/). [https://riadhassan.github.io/](https://riadhassan.github.io/)
 
 Riad Hassan, Lecturer, department of Computer Science and Engineering (CSE) in Green University of Bangladesh ([GUB](https://green.edu.bd/faculty-profile/dept-of-cse/md-riad-hassan/)). I completed my *MSc* from Bangladesh University of Engineering and Technology ([BUET](https://www.buet.ac.bd/)). Beside those, I also conduct research with [BioRAIN Lab](https://biorainlab.net/author/riad-hassan/). My research interests are:
 * Deep Learning
